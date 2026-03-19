@@ -13,7 +13,7 @@ class Employee {
 
  // Method to take employee details from the user
  void getEmployeeDetails(Scanner sc) {
-s
+
      System.out.print("Enter Employee ID: ");
      empId = sc.nextInt();   // Taking employee ID
 
